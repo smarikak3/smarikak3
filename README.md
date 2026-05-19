@@ -1,6 +1,6 @@
 # Hi, I'm Smarika Koirala 👋
 
-🎓 Computer Science Junior at the University of North Texas  
+🎓 Computer Science Senior at the University of North Texas  
 💻 Passionate about Software Engineering, Web Development, and Problem Solving  
 🚀 Currently seeking Summer 2026 Software Engineering Internship opportunities  
 
