@@ -1,118 +1,136 @@
 # Hi, I'm Smarika Koirala 👋
 
-🎓 Computer Science Senior at the University of North Texas  
-💻 Passionate about Software Engineering, Web Development, and Problem Solving  
-🚀 Currently seeking Summer 2026 Software Engineering Internship opportunities  
+### Computer Science Student | Software Engineer | AI & Full-Stack Developer
+
+🎓 Computer Science student at the University of North Texas  
+🚀 Passionate about AI systems, scalable software, cloud technologies, and full-stack development  
+💡 Interested in Software Engineering, LLM Infrastructure, and Intelligent Applications  
 
 ---
 
 ## 👩‍💻 About Me
 
+- 🔭 Currently working on:
+  - AI Infrastructure & LLM Systems
+  - RAG-based applications
+  - Full-stack web platforms
+  - Voice AI systems
+
 - 🌱 Currently learning:
+  - Distributed Systems
+  - Kubernetes & Docker
+  - Cloud Infrastructure
+  - Advanced AI Engineering
+
+- ⚡ Strong background in:
   - Data Structures & Algorithms
   - Object-Oriented Programming
-  - Front-End Web Development
-  - Cloud Technologies
-
-- 💡 Interested in:
-  - Software Development
-  - Scalable Systems
-  - Web Applications
-  - Distributed Systems
-
-- 🛠️ Strong foundation in:
-  - C
-  - C++
-  - Java
-  - HTML/CSS/JavaScript
+  - API Development
+  - Front-End Engineering
 
 ---
 
-## 🧰 Technical Skills
+# 🛠️ Tech Stack
 
-### Languages
-- C
-- C++
-- Java
-- JavaScript
-- HTML/CSS
+## Languages
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
 
-### Tools & Technologies
-- Git
-- GitHub
-- OOP
-- Data Structures & Algorithms
+## Frontend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
 
-### Development
-- Web Development
-- Responsive Design
-- Front-End Development
+## Backend & Cloud
+![Spring Boot](https://img.shields.io/badge/SpringBoot-black?style=for-the-badge&logo=springboot)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=microsoftazure)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes)
+
+## Databases
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![Oracle](https://img.shields.io/badge/Oracle-black?style=for-the-badge&logo=oracle)
 
 ---
 
-## 📌 Projects
+# 🚀 Featured Projects
 
-### Beginner Programming Learning Platform
-Interactive educational platform for teaching programming fundamentals to beginners.
+## 🧠 AI Implementation & Infrastructure Design
+Enterprise AI transformation and LLM infrastructure project built for Woodcrest Capital LLC.
 
-**Tech Stack:** HTML, CSS, JavaScript
+### Highlights
+- Evaluated Llama 3.2 & 3.3 models
+- Designed RAG document intelligence pipelines
+- Built scalable inference infrastructure using vLLM & Ollama
+- Benchmarked H100/A100 GPU deployments
+- Developed governance and monitoring frameworks
 
-#### Features:
+🔗 Project Demo:  
+https://v0-crestmind-frontend.vercel.app/
+
+---
+
+## 🤖 Pretty Good AI — Voice Bot Test Agent
+
+### Tech Stack
+Python • FastAPI • Twilio • GPT-4o-mini • ElevenLabs
+
+### Features
+- Automated outbound AI voice calls
+- Real-time speech generation
+- HIPAA & adversarial scenario testing
+- Transcript logging & evaluation pipeline
+
+🔗 GitHub:  
+https://github.com/Sat-ish77/Pretty_Good_AI
+
+---
+
+## 💻 Beginner Programming Learning Platform
+
+Interactive educational platform for beginner programmers.
+
+### Features
+- Responsive front-end design
 - Hands-on coding exercises
-- Responsive UI/UX
-- Real-time feedback mechanisms
-- Beginner-friendly tutorials
+- Clean modular architecture
+- Collaborative GitHub workflow
 
 ---
 
-### Computer Model Design & Exhibition
-Designed and built an innovative computer model and won "Best Computer Model Design" at a national exhibition in Nepal.
+# 📈 GitHub Stats
 
-#### Highlights:
-- Led technical project development
-- Managed event logistics for 50+ participants
-- Presented technical architecture and design concepts
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smarikak3&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smarikak3&layout=compact&theme=tokyonight)
 
 ---
 
-## 🏆 Leadership Experience
+# 🏆 Certifications
 
-- President of Computer Science Department
-- Conducted technical workshops and coding bootcamps
-- Mentored students in C and C++
-- Organized technical events and exhibitions
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/smarika-koirala
-- 💻 GitHub: https://github.com/smarikak3
-- 📧 Email: smarikak3@gmail.com
+- Programming Fundamentals — Duke University (Coursera)
+- NoSQL Essential Training — LinkedIn Learning
+- Programming Foundation: Databases — LinkedIn Learning
 
 ---
 
-## 📈 GitHub Stats
+# 📫 Connect With Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smarikak3&show_icons=true)
+💼 LinkedIn:  
+https://www.linkedin.com/in/smarika-koirala
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smarikak3&layout=compact)
+💻 GitHub:  
+https://github.com/smarikak3
+
+📧 Email:  
+smarikak3@gmail.com
 
 ---
 
-⭐ “Always learning, always building.”
-
-<!--
-**smarikak3/smarikak3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ “Building scalable systems and intelligent software one project at a time.”
