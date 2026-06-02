@@ -117,7 +117,8 @@ Interactive educational platform for beginner programmers.
 - Programming Fundamentals — Duke University (Coursera)
 - NoSQL Essential Training — LinkedIn Learning
 - Programming Foundation: Databases — LinkedIn Learning
-
+- Prompt Engineering: How to Talk to the AIs
+- Getting Started as a Full-Stack Web Developer
 ---
 
 # 📫 Connect With Me
