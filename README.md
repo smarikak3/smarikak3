@@ -101,6 +101,7 @@ Interactive educational platform for beginner programmers.
 - Hands-on coding exercises
 - Clean modular architecture
 - Collaborative GitHub workflow
+  
 Project link: https://csce-3444-htps-codequest.web.app/ 
 ---
 
