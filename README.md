@@ -2,7 +2,7 @@
 
 ### Computer Science Student | Software Engineer | AI & Full-Stack Developer
 
-🎓 Computer Science student at the University of North Texas  
+🎓 Computer Science student at the University of North Texas 
 🚀 Passionate about AI systems, scalable software, cloud technologies, and full-stack development  
 💡 Interested in Software Engineering, LLM Infrastructure, and Intelligent Applications  
 
